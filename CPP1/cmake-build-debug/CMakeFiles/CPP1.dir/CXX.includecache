@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jokey/CLionProjects/CPP1/Clock.cpp
+iostream
+-
+Clock.h
+C:/Users/jokey/CLionProjects/CPP1/Clock.h
+
+C:/Users/jokey/CLionProjects/CPP1/Clock.h
+iostream
+-
+

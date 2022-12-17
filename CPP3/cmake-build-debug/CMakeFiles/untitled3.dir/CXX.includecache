@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jokey/CLionProjects/untitled3/Array.h
+iostream
+-
+
+C:/Users/jokey/CLionProjects/untitled3/Circle.h
+Shape.h
+C:/Users/jokey/CLionProjects/untitled3/Shape.h
+
+C:/Users/jokey/CLionProjects/untitled3/OrthogonalTriangle.h
+Shape.h
+C:/Users/jokey/CLionProjects/untitled3/Shape.h
+
+C:/Users/jokey/CLionProjects/untitled3/Shape.h
+iostream
+-
+
+C:/Users/jokey/CLionProjects/untitled3/Square.h
+Shape.h
+C:/Users/jokey/CLionProjects/untitled3/Shape.h
+
+C:/Users/jokey/CLionProjects/untitled3/main.cpp
+Shape.h
+C:/Users/jokey/CLionProjects/untitled3/Shape.h
+Square.h
+C:/Users/jokey/CLionProjects/untitled3/Square.h
+Circle.h
+C:/Users/jokey/CLionProjects/untitled3/Circle.h
+OrthogonalTriangle.h
+C:/Users/jokey/CLionProjects/untitled3/OrthogonalTriangle.h
+Array.h
+C:/Users/jokey/CLionProjects/untitled3/Array.h
+iostream
+-
+cstring
+-
+

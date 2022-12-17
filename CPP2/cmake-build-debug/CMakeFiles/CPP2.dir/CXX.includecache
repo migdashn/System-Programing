@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jokey/CLionProjects/CPP2/Complex.h
+iostream
+-
+
+C:/Users/jokey/CLionProjects/CPP2/ComplexVec.h
+Complex.h
+C:/Users/jokey/CLionProjects/CPP2/Complex.h
+cmath
+-
+vector
+-
+
+C:/Users/jokey/CLionProjects/CPP2/Menu.h
+Complex.h
+C:/Users/jokey/CLionProjects/CPP2/Complex.h
+ComplexVec.h
+C:/Users/jokey/CLionProjects/CPP2/ComplexVec.h
+
+C:/Users/jokey/CLionProjects/CPP2/assigmant2.cpp
+Menu.h
+C:/Users/jokey/CLionProjects/CPP2/Menu.h
+
